@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/552/882/non_2x/gray-watercolor-spot-with-droplets-smudges-stains-splashes-grayscale-blot-in-grunge-style-vector.jpg);
+    background-size: cover; 
+    margin: 0;
+}
+h4{
+    font-family: 'Caveat', cursive;
+}
+p{
+    font-family: 'Caveat', cursive;
+}
+label{
+    font-family: 'Caveat', cursive;
+}
+h1{
+    font-family: 'Boogaloo', cursive;
+}
+h2{
+    font-family: 'Praise', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nav-link{
+    color: rgb(10, 10, 10);
+}
